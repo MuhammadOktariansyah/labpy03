@@ -73,8 +73,7 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 ## hasil out put latihan 2 ketika di runtime sebagai berikut :
 
 
-![capture 
-82](https://user-images.githubusercontent.com/45849168/53125481-a9b0a680-3590-11e9-8879-4111d9369a6f.PNG)
+![capture 82](https://user-images.githubusercontent.com/45849168/53125481-a9b0a680-3590-11e9-8879-4111d9369a6f.PNG)
 
 
  *Soal latihan3.py :
@@ -138,11 +137,12 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 ## syntax program1 sebagai berikut :
 
-# [GitHub Logo](Capture 81.PNG) <h2>
+![capture 83](https://user-images.githubusercontent.com/45849168/53125482-a9b0a680-3590-11e9-8e2a-02115a2ee44f.PNG)
 
 
 ## hasil out put program1 ketika runtime adalah sebagai berikut :
 
-# [GitHub Logo](Capture 82.PNG) <h2>
+![capture 
+84](https://user-images.githubusercontent.com/45849168/53125483-aa493d00-3590-11e9-8f5e-7dc29c6e0b73.PNG)
 
 **TERIMAKASIH
