@@ -20,14 +20,14 @@ saat RUN time
 5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
 6.Selesai
 
-#CONTOH OUTPUTNYA
+#CONTOH OUTPUTUNYA
 
-# ![GitHub Logo(capute 16.PNG) <h2>
+![capture 16](https://user-images.githubusercontent.com/45849168/53125476-a87f7980-3590-11e9-85b1-f9acfdd0bb63.PNG)
 
 
 #TAMPILAN KETIKA SUDAH DI RUN DAN MASUKAN JUMLAH N 
 
-# ![GitHub Logo(capture 80.PNG) <h2>
+![capture 80](https://user-images.githubusercontent.com/45849168/53125477-a9181000-3590-11e9-9eec-f85f4635d405.PNG)
 
 #Soal latihan2.py :
 
@@ -67,13 +67,14 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 ##syntax latihan 2 sebagai berikut :
 
 
-# ![GitHub Logo](Capture 83.PNG) <h2>
+![capture  81](https://user-images.githubusercontent.com/45849168/53125479-a9181000-3590-11e9-83f1-48f0e1f23e05.PNG)
 
 
 ## hasil out put latihan 2 ketika di runtime sebagai berikut :
 
 
-# ![GitHub Logo](Capture 84.PNG) <h2>
+![capture 
+82](https://user-images.githubusercontent.com/45849168/53125481-a9b0a680-3590-11e9-8879-4111d9369a6f.PNG)
 
 
  *Soal latihan3.py :
