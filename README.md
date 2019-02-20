@@ -22,11 +22,12 @@ saat RUN time
 
 #CONTOH OUTPUTNYA
 
-# ![GitHub Logo(capute 16) <h2>
+#![GitHub Logo(capute 16.PNG) <h2>
+
 
 #TAMPILAN KETIKA SUDAH DI RUN DAN MASUKAN JUMLAH N 
 
-# ![GitHub Logo(capture 80) <h2>
+#![GitHub Logo(capture 80.PNG) <h2>
 
 #Soal latihan2.py :
 
@@ -65,14 +66,18 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 ##syntax latihan 2 sebagai berikut :
 
-#[GitHub Logo](Capture 83) <h2>
+
+#![GitHub Logo](Capture 83.PNG) <h2>
 
 
 ## hasil out put latihan 2 ketika di runtime sebagai berikut :
 
-#[GitHub Logo](Capture 84) <h2>
+
+#![GitHub Logo](Capture 84.PNG) <h2>
+
 
  *Soal latihan3.py :
+
 
 Membuat program sederhana dengan perulangan :
 
@@ -131,10 +136,12 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 17.Selesai
 
 ## syntax program1 sebagai berikut :
-#[GitHub Logo](Capture 81) <h2>
+
+#[GitHub Logo](Capture 81.PNG) <h2>
 
 
 ## hasil out put program1 ketika runtime adalah sebagai berikut :
-#[GitHub Logo](Capture 82) <h2>
+
+#[GitHub Logo](Capture 82.PNG) <h2>
 
 **TERIMAKASIH
