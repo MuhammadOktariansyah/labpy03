@@ -83,6 +83,7 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
  Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya 
 dengan modal awal 100 juta,
+
 - Pada bulan pertama dan kedua belum mendapatkan laba.
 
 - Pada bulan ketiga baru mulia mendapatkan laba sebesar 1%
