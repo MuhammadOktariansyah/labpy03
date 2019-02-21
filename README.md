@@ -1,10 +1,10 @@
 # labpy03
 # latihan1.py
 
- **soal latihan 1
+# Soal latihan1.py
 
 1. Tampilkan n bilangan acak yang lebih kecil dari 0,5.
-2. nilai n diisi pada saat RUN time
+2. Nilai n diisi pada saat RUN time
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 4. Gunakan fungsi random () yang dapat di infort terlebih dahulu
 
@@ -14,11 +14,11 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5 nilai n diisi pada
 saat RUN time
 
 1. Masukan / import fungsi RANDOM terlebih dahulu
-2. deklarasi interger, masukan jumlah n:
-3. Masukan deskripsi kombinasi for untuk menyelesaikannya
+2. Deklarasi interger, masukan jumlah3. Masukan deskripsi kombinasi for 
+untuk menyelesaikannya
 4. Masukan nilai jumlah (n) : 5
 5. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
-6.Selesai
+6. Selesai
 
 # CONTOH OUTPUTUNYA
 
@@ -31,38 +31,38 @@ saat RUN time
 
 # Soal latihan2.py :
 
-Membuat program untuk menampilkan bilangan terbesar dari n buah data 
+ Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti.
 
  *Algoritma latihan 2:
 
-Membuat program untuk menampilkan bilangan terbesar dari n buah data 
+ Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti
 
-1.Mulai
+1. Mulai
 
-2.Mencetak "latihan 2"
+2. Mencetak "latihan 2"
 
-3.Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, 
+3. Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, 
 menampilkan bilangan terbesar"
 
-4.integer max = 0
+4. integer max = 0
 
-5.Menggunakan fungsi perulangan while true, hingga menampilkan 
+5. Menggunakan fungsi perulangan while true, hingga menampilkan 
 perulangan sampai batas tertentu.
 
-6.Memasukan bilangan integer pada "a"
+6. Memasukan bilangan integer pada "a"
 
-7.Menggunakan fungsi if jika max kurang dari nilai a, maka max sama 
+7. Menggunakan fungsi if jika max kurang dari nilai a, maka max sama 
 dengan a
 
-8.Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya 
+8. Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya 
 perulangan berhenti jika menulis nilai 0.
 
-9.Mencetak nilai paling terbesarv setelah break, sehingga menampilkan 
+9. Mencetak nilai paling terbesarv setelah break, sehingga menampilkan 
 nilai terbesar diantara bilangan tersebut dalam perulangan.
 
-10.selesai
+10. Selesai
 
 ## Syntax latihan 2 sebagai berikut :
 
@@ -79,21 +79,20 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
  *Soal latihan3.py :
 
 
-Membuat program sederhana dengan perulangan :
+   Membuat program sederhana dengan perulangan :
 
-Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan 
-modal awal 100 juta,
+ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya 
+dengan modal awal 100 juta,
+- Pada bulan pertama dan kedua belum mendapatkan laba.
 
-Pada bulan pertama dan kedua belum mendapatkan laba.
+- Pada bulan ketiga baru mulia mendapatkan laba sebesar 1%
 
-Pada bulan ketiga baru mulia mendapatkan laba sebesar 1%
+- Pada bulan ke lima pendapatan meningkat 5%
 
-Pada bulan ke lima pendapatan meningkat 5%
-
-Pada bulan ke delapan mengalami penurunan keuntungan sebesar 2%, 
+- Pada bulan ke delapan mengalami penurunan keuntungan sebesar 2%, 
 sehingga laba menjadi 3%.
 
-Hitung total keuntungan selama 8 bulan berjalan usahanya.
+- Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
  *ALGORITMA menghitung keuntungan selama 8 bulan berjalannya usaha.
 
@@ -136,14 +135,15 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 17. Selesai
 
-## syntax program1 sebagai berikut :
+## Syntax program3 sebagai berikut :
 
 ![capture 83](https://user-images.githubusercontent.com/45849168/53125482-a9b0a680-3590-11e9-8e2a-02115a2ee44f.PNG)
 
 
-## hasil out put program1 ketika runtime adalah sebagai berikut :
+## Hasil output program3 ketika runtime adalah sebagai berikut :
 
 ![capture 
 84](https://user-images.githubusercontent.com/45849168/53125483-aa493d00-3590-11e9-8f5e-7dc29c6e0b73.PNG)
+
 
 **TERIMAKASIH
