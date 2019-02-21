@@ -8,7 +8,7 @@
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 4. Gunakan fungsi random () yang dapat di infort terlebih dahulu
 
-*Algoritma Latihan 1 :
+ *Algoritma Latihan 1 :
 
 Menampilkan n bilangan acak yang lebih kecil dari 0,5 nilai n diisi pada
 saat RUN time
@@ -31,7 +31,7 @@ untuk menyelesaikannya
 
 # Soal latihan2.py :
 
- Membuat program untuk menampilkan bilangan terbesar dari n buah data 
+  Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti.
 
  *Algoritma latihan 2:
@@ -79,7 +79,7 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
  *Soal latihan3.py :
 
 
-   Membuat program sederhana dengan perulangan :
+  *Membuat program sederhana dengan perulangan :
 
  Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya 
 dengan modal awal 100 juta,
