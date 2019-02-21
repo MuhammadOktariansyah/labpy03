@@ -146,4 +146,6 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 84](https://user-images.githubusercontent.com/45849168/53125483-aa493d00-3590-11e9-8f5e-7dc29c6e0b73.PNG)
 
 
+
+
 **TERIMAKASIH
